@@ -180,7 +180,7 @@ header nav ul li {
 	margin: 40px 47px 39px 0;
 }
 header nav ul li a {
-	font-family: 'Abhaya Libre SemiBold';
+	font-family: 'Abhaya Libre SemiBold', serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 18px;
@@ -240,7 +240,7 @@ main {
 .first-view .text h3 {
 	display: block;
 	font-size: 45px;
-	font-family: 'Secular One';
+	font-family: 'Secular One', serif;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 136.97%;
@@ -268,7 +268,7 @@ main {
 	background: #0087fb;
 }
 .first-view .text button a {
-	font-family: 'Abhaya Libre SemiBold';
+	font-family: 'Abhaya Libre SemiBold', serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 25px;
@@ -280,7 +280,7 @@ main {
 	width: 1080px;
 }
 .why_us h3 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 45px;
@@ -310,7 +310,7 @@ main {
 	width: 418px;
 }
 .why_us ul li .text h4 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 25px;
@@ -318,7 +318,7 @@ main {
 	color: #0b1142;
 }
 .why_us ul li .text p {
-	font-family: 'Roboto';
+	font-family: 'Roboto', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -332,7 +332,7 @@ main {
 	width: 1062px;
 }
 .our_services h3 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 45px;
@@ -358,7 +358,7 @@ main {
 	width: 236px;
 }
 .our_services ul li .item2 p {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 20px;
@@ -375,7 +375,7 @@ main {
 	margin: 0 auto;
 	width: 365px;
 	height: 83px;
-	font-family: 'Abhaya Libre SemiBold';
+	font-family: 'Abhaya Libre SemiBold', serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 25px;
@@ -419,7 +419,7 @@ main {
 	width: 1232px;
 }
 .about_us h3 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 45px;
@@ -433,7 +433,7 @@ main {
 	overflow: hidden;
 }
 .about_us .block1 p {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -458,7 +458,7 @@ main {
 	position: relative;
 }
 .reviews h3 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 45px;
@@ -500,7 +500,7 @@ main {
 	margin-bottom: 17px;
 }
 .reviews .reviews_info .text h4 {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -510,7 +510,7 @@ main {
 	margin: 0 auto 4px;
 }
 .reviews .reviews_info .text p {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 24px;
@@ -550,7 +550,7 @@ main {
 	position: relative;
 }
 .contacts h3 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 45px;
@@ -566,7 +566,7 @@ main {
 	width: 504px;
 }
 .contacts .contacts_info li h4 {
-	font-family: 'Abhaya Libre';
+	font-family: 'Abhaya Libre', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 24px;
@@ -589,7 +589,7 @@ main {
 	padding-top: 0;
 }
 .contacts .contacts_info li .item .text a {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -598,7 +598,7 @@ main {
 	display: block;
 }
 .contacts .contacts_info li .item .text p {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -631,7 +631,7 @@ main {
 	margin-right: 0;
 }
 .footer p {
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
